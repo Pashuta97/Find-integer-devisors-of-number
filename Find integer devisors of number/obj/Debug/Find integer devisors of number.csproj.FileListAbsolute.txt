@@ -1,0 +1,7 @@
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find integer devisors of number\Find integer devisors of number\bin\Debug\Find integer devisors of number.exe.config
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find integer devisors of number\Find integer devisors of number\bin\Debug\Find integer devisors of number.exe
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find integer devisors of number\Find integer devisors of number\bin\Debug\Find integer devisors of number.pdb
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find integer devisors of number\Find integer devisors of number\obj\Debug\Find integer devisors of number.csprojResolveAssemblyReference.cache
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find integer devisors of number\Find integer devisors of number\obj\Debug\Find integer devisors of number.csproj.CoreCompileInputs.cache
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find integer devisors of number\Find integer devisors of number\obj\Debug\Find integer devisors of number.exe
+C:\Users\pashu\OneDrive\Документы\Visual Studio 2017\Projects\Find integer devisors of number\Find integer devisors of number\obj\Debug\Find integer devisors of number.pdb
